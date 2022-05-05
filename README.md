@@ -29,7 +29,7 @@ It will be *static*, without the need for a server.
 
 ### My pomodoro
 
-![Capture d’écran du 2022-05-05 10-29-29](https://user-images.githubusercontent.com/98493546/166892070-2233847c-87bd-4589-891b-34323333e4cd.png)
+![Capture d’écran du 2022-05-05 11-03-40](https://user-images.githubusercontent.com/98493546/166893028-ac3f4a39-d133-4bdf-ab5a-9529dd26936f.png)
 
 
 
